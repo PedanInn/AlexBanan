@@ -2,6 +2,7 @@ body {
 width: 100%;
 height: 1100px;
 background-image: url(https://mblogthumb-phinf.pstatic.net/MjAxOTAzMjFfMTQx/MDAxNTUzMTY2Njc5MjY0.OZzP3LmgeJquisqz-cbz_elv_hxbloUxXzlSfKiip5gg.4fc6BgtqZPNc5ytszgb7m_0nD-Q1wAa2bMrtf4W5ndog.JPEG.onsoowa/IMG_6995.jpg?type=w800);
+overflow-x: hidden;
 }
 nav{
 width: 100%;
